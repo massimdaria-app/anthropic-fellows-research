@@ -1,0 +1,17 @@
+How do AI-assisted learning tools reshape children's agency and intrinsic motivation—and can governments design educational policy to preserve autonomy while capturing productivity gains?
+
+I arrived at this question through empirical work, not intuition. I analyzed 4,446 country-level observations and 143 news headlines to understand how AI narratives shape policy priorities. I found that internet access explains 83% of educational outcome variance—not wealth—suggesting information access is the binding constraint. Yet coverage of AI in early childhood education is essentially zero, despite urgent policy questions about how algorithmic tutoring affects motivation, metacognition, and self-directed learning.
+
+This gap is my entry point.
+
+My background bridges the necessary disciplines: econometric training (regression, causal inference), product experience (EdTech at Inteldis), and strategy consulting (Advancy) taught me how policy translates—or fails to translate—into institutional practice. The portfolio demonstrates I can execute: I built an NLP pipeline comparing Claude API against LDA and TextBlob, automated data collection from multiple sources, and implemented reproducibility protocols (temperature=0) that matter for policy-relevant research.
+
+The Fellows Project: I propose a mixed-methods study of how AI tutoring systems affect agency formation in 8-12 year-olds across three educational contexts (UK private, UK state, and a state school in a low-income London borough). The design combines:
+
+1. Quantitative: Pre/post randomized assignment to AI-assisted vs. traditional instruction, measuring intrinsic motivation (Self-Determination Theory scales), metacognitive awareness, and help-seeking behavior
+2. Qualitative: Classroom ethnography and student interviews to capture how children experience algorithmic feedback
+3. Policy analysis: Mapping current UK/EU AI education guidance against empirical findings to identify regulatory gaps
+
+This directly serves Anthropic's Economics & Societal Impacts workstream by generating evidence on how AI deployment affects human agency—a foundational question for responsible AI governance. Anthropic economist Maxim Massenkoff's research on AI's distributional economic effects is directly relevant here: understanding how AI tutoring shapes motivation and metacognition in lower-income settings will clarify whether algorithmic education tools risk widening capability gaps alongside income inequality. The work is early-stage; I'm not claiming expertise in developmental psychology. But I have the methodological toolkit, intellectual honesty about limitations, and genuine curiosity to do this rigorously.
+
+I want to build the empirical foundation for AI education policy that doesn't accidentally erode the very capacities—autonomy, motivation, judgment—that make humans valuable.
